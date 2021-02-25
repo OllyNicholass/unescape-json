@@ -7,6 +7,7 @@
 ```bash
 npm install unescape-json
 ```
+
 ## Usage
 
 ```js
