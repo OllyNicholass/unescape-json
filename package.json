@@ -1,5 +1,5 @@
 {
-  "name": "@ollynicholass/unescape-json",
+  "name": "unescape-json",
   "version": "1.0.0",
   "description": "Convert a serialized/escaped JSON string into a JSON Object.",
   "main": "index.js",
