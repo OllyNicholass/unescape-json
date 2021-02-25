@@ -1,0 +1,22 @@
+{
+  "name": "@ollynicholass/unescape-json",
+  "version": "1.0.0",
+  "description": "Convert a serialized/escaped JSON string into a JSON Object.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OllyNicholass/unescape-json.git"
+  },
+  "keywords": [
+    "unescape",
+    "escape",
+    "serialized",
+    "json"
+  ],
+  "author": "OllyNicholass",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OllyNicholass/unescape-json/issues"
+  },
+  "homepage": "https://github.com/OllyNicholass/unescape-json#readme"
+}
