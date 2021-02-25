@@ -1,6 +1,6 @@
 {
   "name": "unescape-json",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Convert a serialized/escaped JSON string into a JSON Object.",
   "main": "index.js",
   "repository": {
